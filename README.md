@@ -464,4 +464,31 @@ aws ecr delete-repository --repository-name retail-store-orders --force
 |---------------------------------------------------------------------|
 | ![All Infra](images/all-infra/Screenshot 2026-03-30 at 09.41.56.png) |
 
+## 📸 Screenshot Gallery
+
+### VPC Screenshots
+| [VPC 1](images/vpc/1.png) | [VPC 2](images/vpc/2.png) |
+|---------------------------|---------------------------|
+| ![VPC 1](images/vpc/1.png) | ![VPC 2](images/vpc/2.png) |
+
+### EKS Screenshots
+| [EKS 1](images/eks/1.png) | [EKS 2](images/eks/2.png) |
+|---------------------------------------------------|-----------------------------------------------|
+| ![EKS 1](images/eks/1.png) | ![EKS 2](images/eks/2.png) |
+
+### Deploy Screenshots
+| [Deploy 1](images/deploye/1.png) | [Deploy 2](images/deploye/2.png) |
+|---------------------------------------------------------|-----------------------------------------------------|
+| ![Deploy 1](images/deploye/1.png) | ![Deploy 2](images/deploye/2.png) |
+
+### ArgoCD Screenshots
+| [ArgoCD 1](images/argocd/1.png) | [ArgoCD 2](images/argocd/2.png) |
+|---------------------------------------------------------|-----------------------------------------------------|
+| ![ArgoCD 1](images/argocd/1.png) | ![ArgoCD 2](images/argocd/2.png) |
+
+### All-Infra Screenshot
+| [All Infra](images/all-infra/1.png) |
+|---------------------------------------------------------|
+| ![All Infra](images/all-infra/1.png) |
+
 </div>
