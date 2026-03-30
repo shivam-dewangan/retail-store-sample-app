@@ -436,44 +436,4 @@ aws ecr delete-repository --repository-name retail-store-orders --force
 1. Go to GitHub repository → **Settings** → **Secrets and variables** → **Actions**
 2. Delete all AWS-related secrets
 
----
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **AWS Containers Team** for the original sample application
-- **ArgoCD Community** for the excellent GitOps tooling
-- **Terraform Community** for the AWS modules
-- **GitHub Actions** for the CI/CD platform
-
----
-
-## Support
-
-- **Issues**: [GitHub Issues](https://github.com/LondheShubham153/retail-store-sample-app/issues)
-- **Discord**: [TrainWithShubhamCommunity](https://discord.gg/kGEr9mR5gT)
-
----
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-
-**🔄 For advanced GitOps workflows, see [BRANCHING_STRATEGY.md](./BRANCHING_STRATEGY.md)**
-
-</div>
