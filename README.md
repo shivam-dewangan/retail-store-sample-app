@@ -437,3 +437,31 @@ aws ecr delete-repository --repository-name retail-store-orders --force
 2. Delete all AWS-related secrets
 
 
+## 📸 Screenshot Gallery
+
+### VPC Screenshots
+| [VPC 1](images/vpc/1.png) | [VPC 2](images/vpc/2.png) |
+|---------------------------|---------------------------|
+| ![VPC 1](images/vpc/1.png) | ![VPC 2](images/vpc/2.png) |
+
+### EKS Screenshots
+| [EKS 1](images/eks/Screenshot 2026-03-30 at 09.27.53.png) | [EKS 2](images/eks/Screenshot 2026-03-30 at 09.28.05.png) |
+|------------------------------------------------------------|------------------------------------------------------------|
+| ![EKS 1](images/eks/Screenshot 2026-03-30 at 09.27.53.png) | ![EKS 2](images/eks/Screenshot 2026-03-30 at 09.28.05.png) |
+
+### Deploy Screenshots
+| [Deploy 1](images/deploye/Screenshot 2026-03-30 at 09.49.13.png) | [Deploy 2](images/deploye/Screenshot 2026-03-30 at 09.49.23.png) |
+|------------------------------------------------------------------|------------------------------------------------------------------|
+| ![Deploy 1](images/deploye/Screenshot 2026-03-30 at 09.49.13.png) | ![Deploy 2](images/deploye/Screenshot 2026-03-30 at 09.49.23.png) |
+
+### ArgoCD Screenshots
+| [ArgoCD 1](images/argocd/Screenshot 2026-03-30 at 09.52.33.png) | [ArgoCD 2](images/argocd/Screenshot 2026-03-30 at 09.53.00.png) |
+|------------------------------------------------------------------|------------------------------------------------------------------|
+| ![ArgoCD 1](images/argocd/Screenshot 2026-03-30 at 09.52.33.png) | ![ArgoCD 2](images/argocd/Screenshot 2026-03-30 at 09.53.00.png) |
+
+### All-Infra Screenshot
+| [All Infra](images/all-infra/Screenshot 2026-03-30 at 09.41.56.png) |
+|---------------------------------------------------------------------|
+| ![All Infra](images/all-infra/Screenshot 2026-03-30 at 09.41.56.png) |
+
+</div>
