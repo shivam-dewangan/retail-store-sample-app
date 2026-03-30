@@ -484,23 +484,23 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICE
 | ![VPC 1](images/vpc/1.png) | ![VPC 2](images/vpc/2.png) |
 
 ### EKS Screenshots
-| [EKS 1](images/eks/Screenshot 2026-03-30 at 09.27.53.png) | [EKS 2](images/eks/Screenshot 2026-03-30 at 09.28.05.png) |
-|------------------------------------------------------------|------------------------------------------------------------|
-| ![EKS 1](images/eks/Screenshot 2026-03-30 at 09.27.53.png) | ![EKS 2](images/eks/Screenshot 2026-03-30 at 09.28.05.png) |
+| [EKS 1](images/eks/1.png) | [EKS 2](images/eks/2.png) |
+|---------------------------------------------------|-----------------------------------------------|
+| ![EKS 1](images/eks/1.png) | ![EKS 2](images/eks/2.png) |
 
 ### Deploy Screenshots
-| [Deploy 1](images/deploye/Screenshot 2026-03-30 at 09.49.13.png) | [Deploy 2](images/deploye/Screenshot 2026-03-30 at 09.49.23.png) |
-|------------------------------------------------------------------|------------------------------------------------------------------|
-| ![Deploy 1](images/deploye/Screenshot 2026-03-30 at 09.49.13.png) | ![Deploy 2](images/deploye/Screenshot 2026-03-30 at 09.49.23.png) |
+| [Deploy 1](images/deploye/1.png) | [Deploy 2](images/deploye/2.png) |
+|---------------------------------------------------------|-----------------------------------------------------|
+| ![Deploy 1](images/deploye/1.png) | ![Deploy 2](images/deploye/2.png) |
 
 ### ArgoCD Screenshots
-| [ArgoCD 1](images/argocd/Screenshot 2026-03-30 at 09.52.33.png) | [ArgoCD 2](images/argocd/Screenshot 2026-03-30 at 09.53.00.png) |
-|------------------------------------------------------------------|------------------------------------------------------------------|
-| ![ArgoCD 1](images/argocd/Screenshot 2026-03-30 at 09.52.33.png) | ![ArgoCD 2](images/argocd/Screenshot 2026-03-30 at 09.53.00.png) |
+| [ArgoCD 1](images/argocd/1.png) | [ArgoCD 2](images/argocd/2.png) |
+|---------------------------------------------------------|-----------------------------------------------------|
+| ![ArgoCD 1](images/argocd/1.png) | ![ArgoCD 2](images/argocd/2.png) |
 
 ### All-Infra Screenshot
-| [All Infra](images/all-infra/Screenshot 2026-03-30 at 09.41.56.png) |
-|---------------------------------------------------------------------|
-| ![All Infra](images/all-infra/Screenshot 2026-03-30 at 09.41.56.png) |
+| [All Infra](images/all-infra/1.png) |
+|---------------------------------------------------------|
+| ![All Infra](images/all-infra/1.png) |
 
 </div>
